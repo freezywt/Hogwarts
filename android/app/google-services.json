@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253025066977",
+    "project_id": "hogwarts-d20c6",
+    "storage_bucket": "hogwarts-d20c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253025066977:android:b6b7c97bec48c914f67ca0",
+        "android_client_info": {
+          "package_name": "com.hogwarts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253025066977-idnvks9r5qc57mavl31dp77v72g8brsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr4sX13s797N6s8I8LLjzj-HiKvG_0bZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253025066977-idnvks9r5qc57mavl31dp77v72g8brsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
